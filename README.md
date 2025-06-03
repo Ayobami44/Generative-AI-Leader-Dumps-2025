@@ -4,3 +4,4 @@ After researching multiple sources, I found SkillCertExams to be incredibly usef
 Their questions were regularly updated, scenario-based, and aligned closely with what I saw on the actual exam. If you're serious about passing on the first attempt, I’d highly recommend checking them out.
 
 👉 [SkillCertExams – Google Generative AI Leader Practice Material]([url](https://www.skillcertexams.com/google/generative-ai-leader-dumps.html))
+https://www.skillcertexams.com/google/generative-ai-leader-dumps.html
